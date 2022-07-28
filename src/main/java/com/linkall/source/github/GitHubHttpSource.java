@@ -1,7 +1,5 @@
 package com.linkall.source.github;
 
-import com.linkall.vance.common.config.ConfigUtil;
-import com.linkall.vance.common.config.SecretUtil;
 import com.linkall.vance.core.Adapter;
 import com.linkall.vance.core.Adapter2;
 import com.linkall.vance.core.Source;
